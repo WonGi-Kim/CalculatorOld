@@ -112,3 +112,6 @@ class ViewController: UIViewController {
 
 //현재 숫자 -> temp
 //숫자 초기화 -> 두번째숫자 -> 현재숫자
+
+//branch name is fatch
+//this branch is to check that the branch has been created correctly
